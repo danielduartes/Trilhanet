@@ -1,0 +1,7 @@
+<script>start("c:\\Users\\duart\\OneDrive\\Documentos\\Trilha UFPB 2025.2\\backend-basics\\alembic\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,0,"0 B",1758118180,"9/17/25, 11:09:40 AM");</script>
+<script>addRow("versions","versions",1,0,"0 B",1759339535,"10/1/25, 2:25:35 PM");</script>
+<script>addRow("env.py","env.py",0,2169,"2.1 kB",1758118124,"9/17/25, 11:08:44 AM");</script>
+<script>addRow("README","README",0,38,"38 B",1758117868,"9/17/25, 11:04:28 AM");</script>
+<script>addRow("script.py.mako","script.py.mako",0,704,"704 B",1758117868,"9/17/25, 11:04:28 AM");</script>
